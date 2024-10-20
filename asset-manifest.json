@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/impact-card/static/css/main.b20a6d8e.css",
+    "main.js": "/impact-card/static/js/main.c33cc3a6.js",
+    "static/js/488.3801d622.chunk.js": "/impact-card/static/js/488.3801d622.chunk.js",
+    "index.html": "/impact-card/index.html",
+    "main.b20a6d8e.css.map": "/impact-card/static/css/main.b20a6d8e.css.map",
+    "main.c33cc3a6.js.map": "/impact-card/static/js/main.c33cc3a6.js.map",
+    "488.3801d622.chunk.js.map": "/impact-card/static/js/488.3801d622.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20a6d8e.css",
+    "static/js/main.c33cc3a6.js"
+  ]
+}
