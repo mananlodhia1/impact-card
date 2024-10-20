@@ -2,6 +2,8 @@
 
 This is a **React + TypeScript** application demonstrating an **Impact Card design** with **Tailwind CSS**. The card displays environmental impact details, rewards, and proof of contribution.
 
+https://mananlodhia1.github.io/impact-card/
+
 ## Features
 
 - **Responsive Card Design**: Optimized for both desktop and mobile devices.
