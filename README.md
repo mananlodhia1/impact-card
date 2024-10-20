@@ -2,11 +2,6 @@
 
 This is a **React + TypeScript** application demonstrating an **Impact Card design** with **Tailwind CSS**. The card displays environmental impact details, rewards, and proof of contribution.
 
-## Project Structure
-
-
----
-
 ## Features
 
 - **Responsive Card Design**: Optimized for both desktop and mobile devices.
@@ -25,14 +20,14 @@ Make sure you have **Node.js** installed. You can check by running:
 ```bash
 node -v
 npm -v
+```
 
+```bash
 git clone <repository-url>
 cd impact-card
 
 npm install
-
 npm start
 
-[text](http://localhost:3000)
-
+open: http://localhost:3000
 ```
