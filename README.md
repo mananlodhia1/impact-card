@@ -23,7 +23,7 @@ npm -v
 ```
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mananlodhia1/impact-card.git
 cd impact-card
 
 npm install

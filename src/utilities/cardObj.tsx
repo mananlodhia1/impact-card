@@ -129,6 +129,6 @@ export const cardDataArray = [
       "Planting trees to offset carbon emissions and promote biodiversity.",
     image: "./bg-img.png",
     progress: 80,
-    link: "/",
+    link: "/impact-card",
   },
 ];
